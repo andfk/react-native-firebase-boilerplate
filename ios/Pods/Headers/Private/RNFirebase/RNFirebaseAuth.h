@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseAuth.h
+../../../../../node_modules/react-native-firebase/ios/RNFirebase/auth/RNFirebaseAuth.h

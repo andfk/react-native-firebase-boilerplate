@@ -23,15 +23,15 @@ target 'reactnativefirebaseboilerplate' do
     :path => "../node_modules/react-native/ReactCommon/yoga"
 
   # Required by RNFirebase
-  pod 'Firebase/AdMob', '~> 3.17'
-  pod 'Firebase/Core', '~> 3.17'
-  pod 'Firebase/Analytics', '~> 3.17'
-  pod 'Firebase/Auth', '~> 3.17'
-  pod 'Firebase/Crash', '~> 3.17'
-  pod 'Firebase/Database', '~> 3.17'
-  pod 'Firebase/DynamicLinks', '~> 3.17'
-  pod 'Firebase/Messaging', '~> 3.17'
-  pod 'Firebase/RemoteConfig', '~> 3.17'
-  pod 'Firebase/Storage', '~> 3.17'
+  # pod 'Firebase/AdMob'
+  pod 'Firebase/Core'
+  # pod 'Firebase/Analytics'
+  pod 'Firebase/Auth'
+  # pod 'Firebase/Crash'
+  # pod 'Firebase/Database'
+  # pod 'Firebase/DynamicLinks'
+  # pod 'Firebase/Messaging'
+  # pod 'Firebase/RemoteConfig'
+  # pod 'Firebase/Storage'
   pod 'RNFirebase', :path => '../node_modules/react-native-firebase'
 end

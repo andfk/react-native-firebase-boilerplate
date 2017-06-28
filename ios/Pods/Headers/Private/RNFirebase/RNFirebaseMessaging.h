@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseMessaging.h
+../../../../../node_modules/react-native-firebase/ios/RNFirebase/messaging/RNFirebaseMessaging.h

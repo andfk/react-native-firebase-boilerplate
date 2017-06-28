@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '679EB95E9EE605E439761D73D5A2A9DE'
+               BlueprintIdentifier = 'B029F783717520A71917E08FD758D9AA'
                BlueprintName = 'Pods-reactnativefirebaseboilerplate'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libPods-reactnativefirebaseboilerplate.a'>

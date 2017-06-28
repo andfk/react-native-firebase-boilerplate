@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseRemoteConfig.h
+../../../../../node_modules/react-native-firebase/ios/RNFirebase/config/RNFirebaseRemoteConfig.h

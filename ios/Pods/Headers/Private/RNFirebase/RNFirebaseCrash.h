@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseCrash.h
+../../../../../node_modules/react-native-firebase/ios/RNFirebase/crash/RNFirebaseCrash.h
