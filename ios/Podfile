@@ -1,0 +1,37 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+target 'reactnativefirebaseboilerplate' do
+  pod 'React',
+    :path => "../node_modules/react-native",
+    :subspecs => [
+      "Core",
+      "ART",
+      "RCTActionSheet",
+      "RCTAnimation",
+      "RCTCameraRoll",
+      "RCTGeolocation",
+      "RCTImage",
+      "RCTNetwork",
+      "RCTText",
+      "RCTVibration",
+      "RCTWebSocket",
+      "DevSupport",
+      "BatchedBridge"
+    ]
+  pod 'Yoga',
+    :path => "../node_modules/react-native/ReactCommon/yoga"
+
+  # Required by RNFirebase
+  pod 'Firebase/AdMob', '~> 3.17'
+  pod 'Firebase/Core', '~> 3.17'
+  pod 'Firebase/Analytics', '~> 3.17'
+  pod 'Firebase/Auth', '~> 3.17'
+  pod 'Firebase/Crash', '~> 3.17'
+  pod 'Firebase/Database', '~> 3.17'
+  pod 'Firebase/DynamicLinks', '~> 3.17'
+  pod 'Firebase/Messaging', '~> 3.17'
+  pod 'Firebase/RemoteConfig', '~> 3.17'
+  pod 'Firebase/Storage', '~> 3.17'
+  pod 'RNFirebase', :path => '../node_modules/react-native-firebase'
+end
